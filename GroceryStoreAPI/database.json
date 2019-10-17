@@ -23,7 +23,8 @@
         "productId": 2,
         "quantity": 3
       }
-    ]
+    ],
+    "createdDate": "2019-10-16"
   }],
   "products": [{
       "id": 1,
